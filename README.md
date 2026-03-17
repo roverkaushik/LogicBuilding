@@ -1,8 +1,7 @@
 This Logic Building project will help you get started. **Do this before starting DSA**.
 
 **Note**: Please follow the naming convention for creating
-  Package:    phase<one>
-  classname:  Question<no.>_Ph<One> 
+  **Package**:    phase<one>, **Classname**:  Question<no.>_Ph<One> 
 
 **Phase 1 – Conditional Thinking (If–Else, Boolean Logic)**
 
