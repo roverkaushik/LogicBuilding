@@ -1,4 +1,4 @@
-package org.example.phaseone;
+package org.example.phaseone.levelone;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package org.example.phaseone;
+package org.example.phaseone.levelone;
 
 public class Question5_PhOne {
     public static void main(String[] args) {

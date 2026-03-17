@@ -1,4 +1,4 @@
-package org.example.phaseone;
+package org.example.phaseone.levelone;
 
 public class Question1_PhOne {
 
